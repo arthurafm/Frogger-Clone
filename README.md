@@ -1,6 +1,6 @@
 # Frogger-Clone
 Jogo Frogger recriado em C.
-Feito por Arthur Alves e Eduardo Mattje durante o período 2021/1 da UFRGS para o trabalho final de Algoritmos e Programação, com tutela da professora Mara Abel.
+Feito por Arthur Alves e Eduardo Mattje durante o período 2021/1 da UFRGS para o trabalho final de Algoritmos e Programação, sob tutela da professora Mara Abel.
 
 O programa contém:
 -Sistema de movimentação de personagem e obstáculos
