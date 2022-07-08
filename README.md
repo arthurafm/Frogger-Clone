@@ -1,5 +1,6 @@
 # Frogger-Clone
 // PT-BR
+
 Jogo Frogger recriado em C.
 Feito por Arthur Alves em colaboração com Eduardo Mattje durante o período 2021/1 da UFRGS para o trabalho final de Algoritmos e Programação, sob tutela da professora Mara Abel.
 
@@ -8,6 +9,7 @@ O programa contém: sistema de movimentação de personagem e obstáculos, siste
 Foram utilizadas as libraries: stdio.h, stdlib.h, string.h, windows.h e conio2.h.
 
 // EN-US
+
 Frogger game recreated using C.
 Made by Arthur Alves in collab with Eduardo Mattje during the 2021/1 period in UFRGS for the final Algorithms and Programming's project, under professor Mara Abel's tutelage.
 
